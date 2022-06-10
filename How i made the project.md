@@ -1,4 +1,4 @@
-# SC-Project-Music-Ambient-Piano
+# SC-Project-Ambient-Piano-for-Exams
 Supercollider Project for Exams (AVARTS Ionian University Summer 2022) @iani
 
 The following link will move you 
@@ -24,3 +24,6 @@ but I enjoy it, I'm happy about what I did,
 because my programming knowledge is small at the moment.
 
 The world of Supercollider is huge and deep, I have so much more to learn.
+
+Konstantinos (Kostis)  Karagiannis 
+TX2020038
