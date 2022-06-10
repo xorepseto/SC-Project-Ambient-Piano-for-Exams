@@ -19,9 +19,13 @@ by my professor Ioannis Zannos @iani .
 
 Also, i want to thank Sound Engraver, her videos are a nice experience and very useful.
 
+Ιn the project I used more than one class,
+I created variables, chords, Various synth sounds, 
+I made different rhythmic patterns and melodies
+
 My project is not something "wow", 
 but I enjoy it, I'm happy about what I did, 
-because my programming knowledge is small at the moment.
+my programming knowledge is small at the moment.
 
 The world of Supercollider is huge and deep, I have so much more to learn.
 
